@@ -1,3 +1,3 @@
 # cmsc320FinalProject
 
-Using ML to predict a user's favorite music genre based on user demographics :)
+Using machine learning to predict a song's popularity based on features such as tempo, length, and more! :)
